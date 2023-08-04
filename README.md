@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brittanyhurthead
 - 👀 I’m interested in urban farming, houseplants, nano-aquariums
-- 🌱 I’m currently learning React & Python
+- 🌱 I’m currently learning React & Angular
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: DM me on Linked in or IG @brittanyhurthead for both platforms
 
