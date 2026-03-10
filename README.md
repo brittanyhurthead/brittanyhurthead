@@ -4,7 +4,7 @@
 - 🧐 I'm always looking for comprehensive projects to add to my portfolio.
 - 🔨Tools: Visual Studio Code, Microsoft Excel, VBA, DB Browser
 - 🤸🏽‍♀️Skills: Data Analysis, Cloud Computing, Version Control, Microsoft Excel Macros, JavaScript
-- ⚡ Hobbies: Gardening, Peloton, Spending Time with Family
+- ⚡ Hobbies: Gardening, Reading, Crocheting, & Spending Time with Family
 - 📫 How to reach me: DM me on LinkedIn
 
 <!---
